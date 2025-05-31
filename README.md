@@ -1,1 +1,1 @@
-# ArithmeticSeries
+# Arithmetic-Series
